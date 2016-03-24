@@ -1,5 +1,7 @@
-package project;
 
-public class Horse {
 
+public interface Horse {
+
+	int getWeight();
+	String getName();
 }
